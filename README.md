@@ -1,9 +1,9 @@
-# algorithm-visualization
+# sorting-visualization
 
-Algorithm Visualization using Pygame.
+Sorting Visualization using Pygame.
 
 Instructions:
-Execute py AlgVis.py
+Execute py sortVis.py
 
 SPACE: Pause, 1: Shuffle, 2: Asc Sort, 3: Desc Sort
 
@@ -13,4 +13,4 @@ W: Bubble Sort
 
 E: Quick Sort
 
-... more algorithms coming ...
+... more sorting algorithms coming ...
