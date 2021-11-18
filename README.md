@@ -13,4 +13,12 @@ W: Bubble Sort
 
 E: Quick Sort
 
+R: Selection Sort
+
+T: Merge Sort
+
+Y: OddEven Sort
+
+U: Shell Sort
+
 ... more sorting algorithms coming ...
