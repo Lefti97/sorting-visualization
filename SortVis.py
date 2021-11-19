@@ -86,7 +86,7 @@ def insertionSort(arr):
                 break
 
         arr[j+1] = key
-        if (STOP[0] == True) or (swaps == 0):
+        if STOP[0] == True:
             break
     
     topText[0] = font.render('Insertion Sort    Comparisons: '+ str(comps) +'    Swaps: ' + str(swaps), True, WHITE)
